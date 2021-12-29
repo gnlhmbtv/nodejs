@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Learning http",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnlhmbtv/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnlhmbtv/NodeJs/issues"
+  },
+  "homepage": "https://github.com/gnlhmbtv/NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
